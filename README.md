@@ -70,4 +70,4 @@ En nuestro Sistema de Biblioteca Universitaria, si se implementara un backend we
 
 También podría encargarse de registrar los préstamos realizados y actualizar la disponibilidad de los materiales en una base de datos.
 
-En nuestro proyecto, utilizamos Python para representar los materiales y aplicar la lógica de programación orientada a objetos. Sin embargo, esta parte funciona de manera
+En nuestro proyecto, utilizamos Python para representar los materiales y aplicar la lógica de programación orientada a objetos. Sin embargo, esta parte funciona de manera independiente del frontend, ya que no se requiere implementar una conexión entre ambos componentes.
